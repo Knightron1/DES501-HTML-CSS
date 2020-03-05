@@ -5,6 +5,12 @@
 .paragraph { color: red; font-size: large; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
 
 .right-image { display: block;
-             margin-left: 75%;
-             margin-right: 10%;
-             width: 300px;}
+             float: right;
+             width: 300px;
+            overflow: auto;}
+
+.container {background-color: white;
+    width: 100%;
+    padding: 10px;}
+
+ 
