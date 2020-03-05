@@ -1,5 +1,10 @@
 #text-colour {color: blue; font-size: xx-large;}
 
-.text-colour {color: black; font-size: larger;}
+.text-colour {color:  white; font-size: larger;}
 
-.paragraph { color: red; font-size: medium;}
+.paragraph { color: red; font-size: large; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+.right-image { display: block;
+             margin-left: 75%;
+             margin-right: 10%;
+             width: 300px;}
